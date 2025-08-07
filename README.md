@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elisha! <br/><a href="https://github.com/Elisha8120">Entry-Level Cybersecurity Analyst</a>, <a href="[https://www.linkedin.com/in/elisha-baquero-088795210]"></a>
+<h1>Hi, I'm Elisha! <br/><a href="https://github.com/Elisha8120">Entry-Level Cybersecurity Analyst</a> <a href="[https://www.linkedin.com/in/elisha-baquero-088795210]">
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
