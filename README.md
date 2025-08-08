@@ -7,14 +7,22 @@
  (https://github.com/Elisha8120/Azure-VM-Hardening-.git)
  
  2) Bootcon Project 
- https://docs.google.com/presentation/d/1TvxU0jEOIglA59dgFz8P-J_yYArlGvlXgUhVctAoqms/edit?usp=sharing
+
+ https://www.youtube.com/watch?v=tZer1fMbXHw
+
+https://youtu.be/pHCkp3vskJI
+ 
+(https://docs.google.com/presentation/d/1TvxU0jEOIglA59dgFz8P-J_yYArlGvlXgUhVctAoqms/edit?usp=sharing)
 
 
 
 
 # Youtube Videos 
+Cybersecurity Bootcon - UC Davis Bootcamp 2024 Final Project (PART 1)
+https://www.youtube.com/watch?v=tZer1fMbXHw
 
-
+Cybersecurity Bootcon - UC Davis Bootcamp Final Project 2024 (PART2)
+https://youtu.be/pHCkp3vskJI
 
 
 
