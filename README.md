@@ -5,6 +5,15 @@
  1) Azure-VM-Hardening Project
  
  (https://github.com/Elisha8120/Azure-VM-Hardening-.git)
+ 
+ 2) Bootcon Project 
+ https://docs.google.com/presentation/d/1TvxU0jEOIglA59dgFz8P-J_yYArlGvlXgUhVctAoqms/edit?usp=sharing
+
+
+
+
+# Youtube Videos 
+
 
 
 
