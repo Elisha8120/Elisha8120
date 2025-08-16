@@ -28,9 +28,11 @@ https://youtu.be/pHCkp3vskJI
 
 # Certifications
 
+CompTIA Security+
 https://github.com/Elisha8120/CompTIA-Security-
 
-
+UC Davis Division of Continuing and Professional Education
+https://github.com/Elisha8120/UC-Davis-Cybersecurity-Boot-Camp
 
 
 
