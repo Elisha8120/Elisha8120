@@ -2,11 +2,29 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- 1) Azure-VM-Hardening Project
+ 1) Azure-Virtual Machine Creation and Light Hardening 
  
- (https://github.com/Elisha8120/Azure-VM-Hardening-.git)
+ https://github.com/Elisha8120/Azure-VM-Hardening-.git
+
+
+
  
- 2) Bootcon Project 
+ 2) Wireshark Pcap Analysis
+
+https://github.com/Elisha8120/Wireshark-Analysis
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4) Bootcon School Project 
 
  https://www.youtube.com/watch?v=tZer1fMbXHw
 
