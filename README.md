@@ -41,9 +41,15 @@ https://youtu.be/pHCkp3vskJI
 
 
 # Certifications
+<img width="60" height="60" alt="comptia-security-ce-certification (1)" src="https://github.com/user-attachments/assets/7a4197e4-d2a9-4ea1-b832-7141693358cd" />
 
-CompTIA Security+
-https://github.com/Elisha8120/CompTIA-Security-
+CompTIA Security+ Certification
+ https://github.com/Elisha8120/CompTIA-Security-
+
+
+
+
+   <img width="60" height="60" alt="networking-and-cybersecurity" src="https://github.com/user-attachments/assets/6d6f8bea-0a84-48c3-aec0-9d9bb05d8820" />
 
 UC Davis Division of Continuing and Professional Education
 https://github.com/Elisha8120/UC-Davis-Cybersecurity-Boot-Camp
