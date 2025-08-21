@@ -26,11 +26,7 @@ https://github.com/Elisha8120/Wireshark-Analysis
  
  4) Bootcon School Project 
 
- https://www.youtube.com/watch?v=tZer1fMbXHw
-
-https://youtu.be/pHCkp3vskJI
- 
-(https://docs.google.com/presentation/d/1TvxU0jEOIglA59dgFz8P-J_yYArlGvlXgUhVctAoqms/edit?usp=sharing)
+https://github.com/Elisha8120/Bootcon-Project
 
 
 
