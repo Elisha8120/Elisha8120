@@ -16,15 +16,15 @@ https://github.com/Elisha8120/Wireshark-Analysis
  
  
  
+ 3) Creating a SOC using Azure
+ 
+ 
+ https://github.com/Elisha8120/Creating-a-Security-Operations-Center-with-Azure-
  
  
  
  
- 
- 
- 
- 
- 3) Bootcon School Project 
+ 4) Bootcon School Project 
 
 https://github.com/Elisha8120/Bootcon-Project
 
