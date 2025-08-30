@@ -45,7 +45,7 @@ https://github.com/Elisha8120/Bootcon-Project
 
 
 
-# Youtube Videos 
+# <img width="27" height="42" alt="image" src="https://github.com/user-attachments/assets/14b80e40-4352-454e-a633-416d62fc3105" /> Youtube Videos 
 Cybersecurity Bootcon - UC Davis Bootcamp 2024 Final Project (PART 1)
 https://www.youtube.com/watch?v=tZer1fMbXHw
 
@@ -59,7 +59,9 @@ https://youtu.be/pHCkp3vskJI
 
 
 
-# Certifications
+# <img width="22" height="35" alt="image" src="https://github.com/user-attachments/assets/8503b8e6-2002-460a-934d-baf0c528dbbe" /> Certifications
+
+
 <img width="60" height="60" alt="comptia-security-ce-certification (1)" src="https://github.com/user-attachments/assets/7a4197e4-d2a9-4ea1-b832-7141693358cd" />
 
 CompTIA Security+ Certification
@@ -77,9 +79,16 @@ https://github.com/Elisha8120/UC-Davis-Cybersecurity-Boot-Camp
 
 
 
-#      <img width="24" height="40" alt="image" src="https://github.com/user-attachments/assets/a105ece1-c6c5-4333-9066-9657eddc2fa0" />  Forage Certifications
 
 
+
+
+
+
+
+# <img width="24" height="40" alt="image" src="https://github.com/user-attachments/assets/a105ece1-c6c5-4333-9066-9657eddc2fa0" />   Forage Certifications 
+
+1. https://github.com/Elisha8120/Deloitte-Job-Scenario/tree/main
 
 
 
