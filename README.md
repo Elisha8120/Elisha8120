@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elisha! <br/><a href="https://github.com/Elisha8120">Entry-Level Cybersecurity Analyst</a> <a href="[https://www.linkedin.com/in/elisha-baquero-088795210]">
+<h1>Hi, I'm Elisha! <br/><a href="https://github.com/Elisha8120">Cybersecurity Specialist</a> <a href="[https://www.linkedin.com/in/elisha-baquero-088795210]">
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -7,34 +7,37 @@
  https://github.com/Elisha8120/Azure-VM-Hardening-.git
 
 
+ 2) Responding to a Security Breach. 
+ 
+ https://github.com/Elisha8120/Deloitte-Job-Scenario/tree/main
+
+
 
  
- 2) Wireshark Pcap Analysis
+ 3) Wireshark Pcap Analysis
 
 https://github.com/Elisha8120/Wireshark-Analysis
  
  
  
  
- 3) Creating a SOC using Azure
+ 4) Creating a SOC using Azure
  
  
  https://github.com/Elisha8120/Creating-a-Security-Operations-Center-with-Azure-
+
+
  
- 
- 
- 
- 4) Bootcon School Project 
+
+
+
+<h2>👨‍💻 School Learning Projects:</h2>
+
+
+
+1)  Bootcon School Project 
 
 https://github.com/Elisha8120/Bootcon-Project
-
-
-
-<h2>👨‍💻 Real Life Job Scenerio Projects:</h2>
-
-
-
-1) 
 
 
 
@@ -51,6 +54,11 @@ https://youtu.be/pHCkp3vskJI
 
 
 
+
+
+
+
+
 # Certifications
 <img width="60" height="60" alt="comptia-security-ce-certification (1)" src="https://github.com/user-attachments/assets/7a4197e4-d2a9-4ea1-b832-7141693358cd" />
 
@@ -64,6 +72,15 @@ CompTIA Security+ Certification
 
 UC Davis Division of Continuing and Professional Education
 https://github.com/Elisha8120/UC-Davis-Cybersecurity-Boot-Camp
+
+
+
+
+
+#      <img width="24" height="40" alt="image" src="https://github.com/user-attachments/assets/a105ece1-c6c5-4333-9066-9657eddc2fa0" />  Forage Certifications
+
+
+
 
 
 
