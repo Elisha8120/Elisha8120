@@ -30,6 +30,17 @@ https://github.com/Elisha8120/Bootcon-Project
 
 
 
+<h2>👨‍💻 Real Life Job Scenerio Projects:</h2>
+
+
+
+1) 
+
+
+
+
+
+
 
 # Youtube Videos 
 Cybersecurity Bootcon - UC Davis Bootcamp 2024 Final Project (PART 1)
